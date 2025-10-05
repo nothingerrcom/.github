@@ -2,7 +2,7 @@
 
 ### `Nothinger: Creating Beyond Limits.`
 
-Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity
+The largest open source project development and production company with the widest range of products.
 
 <a href="https://docs.zen-browser.app/contribute/translation">Contribute</a> ·
 <a href="https://www.zen-browser.app">Website</a> ·
