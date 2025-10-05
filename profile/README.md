@@ -27,7 +27,7 @@ Nothinger is an organization dedicated to creating innovative solutions from min
 ### UI
 - **[website](https://github.com/nothingerrcom/website)** - Website
 - **[mobile-app](https://github.com/nothingerrcom/mobile-app)** - Mobile App, cross-platform (Android & iOS)
-- **[desktop-app](https://github.com/nothingerrcom/desktop-app)** - Desktop App, cross-platform (Linux & Windows & MacOS) - Coming Soon...
+- **[desktop-app](https://github.com/nothingerrcom/desktop-app)** - Desktop App, cross-platform (Linux & Windows & MacOS)
 
 ## Contributing
 
@@ -40,7 +40,7 @@ We welcome contributions that align with our philosophy of simplicity and mainta
 
 - **Discord**: Join our community discussions
 - **Instagram**: Follow [@nothingerrcom](https://instagram.com/nothingerrcom) for updates
-- **Blog**: Read our thoughts on [nothingerr.com/blog](https://nothingerr.com/blog) - Coming Soob...
+- **Blog**: Read our thoughts on [nothingerr.com/blog](https://nothingerr.com/blog) - Coming Soon...
 
 ## License
 
