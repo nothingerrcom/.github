@@ -1,3 +1,0 @@
-# Nothinger
-
-## selamun aleyküm
