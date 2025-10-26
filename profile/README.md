@@ -1,7 +1,7 @@
 # Nothinger
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nothingerrcom/.github/refs/heads/main/profile/logo-bg.png" alt="Nothinger Logo" width="200" height="200"/>
+  <img src="https://www.nothingerr.com/brand/nothinger-vector.svg" alt="Nothinger Logo" width="200" height="200"/>
   
   <p><em>Building something from nothing</em></p>
   
