@@ -51,4 +51,4 @@ All Nothinger projects are released under the MIT License. See individual reposi
 <div align="center">
   <h4>Built with ❤️ by the Nothinger team</h4>
 </div>
-    <img src="https://raw.githubusercontent.com/nothingerrcom/.github/refs/heads/main/profile/nothinger_wordmark_tagline.webp" alt="Nothinger Logo" width="1920" height="1080"/>
+    <img src="https://www.nothingerr.com/brand/nothinger_wordmark_tagline.png" alt="Nothinger Logo" width="1920" height="1080"/>
