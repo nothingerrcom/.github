@@ -5,8 +5,11 @@
   
   <p><em>Building something from nothing</em></p>
   
-  [![GitHub stars](https://img.shields.io/github/stars/nothingerrcom?style=for-the-badge)](https://github.com/nothingerrcom)
-  [![Discord](https://img.shields.io/discord/1329854982601834496?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gsUECUjHRu)
+  <a href="https://nothingerr.com">
+  <img
+    alt="Made by Nothinger"
+    src="https://img.shields.io/badge/MADE%20BY%20NOTHINGER-000000.svg?style=for-the-badge&labelColor=000000&&logo=https://nothingerr.com/brand/other/discord.svg">
+  </a>
 </div>
 
 ---
